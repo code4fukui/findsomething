@@ -328,7 +328,7 @@ var makeMarker = function(map, pos, data) {
 //		icon: 'icon-heart32x32.png' // アイコン下中央がデフォルトっぽい
 		icon: new google.maps.MarkerImage(
 			//'icon/icon-exit2.png',
-			icons[data.type].icon,
+			"icon/" + icons[data.type].icon,
 			new google.maps.Size(128, 128),
 			new google.maps.Point(0, 0),
 			new google.maps.Point(24, 24),
