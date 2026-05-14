@@ -6,7 +6,7 @@
 
 ## デモ
 
-**https://taisukef.github.io/findsomething/**
+**~~https://taisukef.github.io/findsomething/**~~ *(unavailable)*
 
 ## 機能
 

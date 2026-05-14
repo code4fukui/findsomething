@@ -10,7 +10,7 @@ A web application that uses Japan's Open Data Platform (ODP) to search for and m
 
 ## Demo
 
-**https://taisukef.github.io/findsomething/**
+**~~https://taisukef.github.io/findsomething/**~~ *(unavailable)*
 
 ## Features
 
